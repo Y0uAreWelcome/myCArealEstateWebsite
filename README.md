@@ -7,3 +7,6 @@ If you have any suggestions feel free to email me via the email on my site.
 
 Next Steps:
 If updating the HTML files manually is becoming too tedious look into a Static Site Generator or a Headless CMS.
+
+Add analytics
+
