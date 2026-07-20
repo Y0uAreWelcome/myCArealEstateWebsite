@@ -362,6 +362,29 @@ a:focus-visible {
   font-weight: 600;
 }
 
+.blog-intro-card {
+  background: white;
+  border-radius: 24px;
+  padding: 28px 32px;
+  box-shadow: var(--shadow);
+  margin-bottom: 32px;
+}
+
+.blog-intro-card p {
+  color: var(--muted);
+  margin-bottom: 16px;
+  line-height: 1.75;
+}
+
+.blog-intro-card p:last-child {
+  margin-bottom: 0;
+}
+
+.blog-intro-card a {
+  color: var(--teal);
+  font-weight: 700;
+}
+
 .blog-post {
   background: white;
   border-radius: 24px;
